@@ -1,0 +1,4 @@
+last_name, first_name, date_of_birth, email
+Doe, John, 1982/10/08, john.doe@foobar.com
+Ann, Mary, 1975/05/15, mary.ann@foobar.com
+Mendoza, Adrian, 1999/05/12, adrian.mendoza007@gmail.com
